@@ -427,6 +427,10 @@ p{
 -webkit-animation-play-state: paused;
         animation-play-state: paused;
 }
+.DSV{
+    font-size:4rem;
+    color: whitesmoke;
+}
 /*End Project section*/
 
 /*About section*/
